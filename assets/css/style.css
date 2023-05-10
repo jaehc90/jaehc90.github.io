@@ -2094,7 +2094,16 @@ small.text {
   .side_menu.style-7 {
     width: 100%; }
     .side_menu.style-7 .pages_links {
-      height: calc(100vh - 273px); } }
+      height: calc(100vh - 273px); } 
+  
+    header.style-2 .content h1 {
+        font-size: 60px !important;
+        letter-spacing: 4px !important;
+        display: inline-block;
+        padding-left: 10px !important; 
+      }
+    
+  }
 
 /* ===============================================================
 			[ * navbar Section ] 
@@ -2732,6 +2741,7 @@ header.style-1 {
   header.style-1 .content {
     position: relative;
     z-index: 10; }
+
   header.style-1 .info .section-head h2 {
     font-size: 55px; }
   header.style-1 .info .text {
