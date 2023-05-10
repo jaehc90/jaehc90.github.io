@@ -2799,8 +2799,8 @@ header.style-2 {
     position: relative;
     z-index: 5; }
     header.style-2 .content h1 {
-      font-size: 123px;
-      letter-spacing: 75px;
+      font-size: 100px;
+      letter-spacing: 60px;
       display: inline-block;
       padding-left: 75px; }
     header.style-2 .content h4 {
